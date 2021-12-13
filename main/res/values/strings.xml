@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Калькулятор</string>
+    <string name="firstNumTextView">Первое число:</string>
+    <string name="secondNumTextView">Второе число:</string>
+    <string name="firstSummandBtn">Ввести слагаемое</string>
+    <string name="sumBtn">Сложить</string>
+</resources>
